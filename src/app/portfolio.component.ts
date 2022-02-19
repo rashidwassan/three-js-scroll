@@ -5,44 +5,30 @@ import { Component, OnInit, ChangeDetectionStrategy } from "@angular/core";
   template: `
     <main>
       <header>
-        <h1>Chau Tran</h1>
+        <h1>Rashid Wassan</h1>
         <p>🚀 Welcome to my website!</p>
       </header>
 
       <blockquote>
-        <p>I like making stuff and putting it on the internet</p>
+        <p>CEO @ LabourOnline PK | GDSC Lead | Flutter Dev at IsaaTech | Blockchain | MLSA | Community Builder | Tech Evangelist!</p>
       </blockquote>
 
       <section>
         <h2>📜 Manifesto</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        'A young, passionate Software Developer & tech evangelist fascinated by new technology trends & filled with patriotism, giving his best to play his part in bringing digital change and tech awareness in Pakistan.'
+        I am a perfectionist, having an obsession with beautiful user interface designs & graphics. I enjoy coding in Flutter, creating beautiful looking apps while being aware of UX as well. Blockchain engrossed me and, therefore, made me dig deeper into the world of Solidity.
         </p>
 
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        I am a nerd with great troubleshooting skills, who loves to play with different operating systems and explore them. Computer hardware fascinates me very much. Looking forward to having an understanding of DevOps & AWS while exploring advanced Dart & Flutter concepts!
+        Apart from that, I'm a helping hand for the learners; helping them to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content on my YouTube channel & writing articles on various platforms.
         </p>
 
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+        Thanks to my strong communication skills along with better team management guts, I have been leading Google Developer Students Club at my campus and serving as a Microsoft Learn Student Ambassador, meanwhile being an active and highlighted member of several societies i.e Strapi, SES MUET, & Appwrite, promoting pragmatic technical education. Having a deep understanding of computer hardware & software due to being in touch with technology since my very childhood, I know how technology can uplift a nation. Technology drives me crazy and I am a fan of innovations!
+
+        On a journey to influence masses!
         </p>
       </section>
 
@@ -178,7 +164,7 @@ import { Component, OnInit, ChangeDetectionStrategy } from "@angular/core";
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class PortfolioComponent implements OnInit {
-  constructor() {}
+  constructor() { }
 
-  ngOnInit(): void {}
+  ngOnInit(): void { }
 }
