@@ -108,7 +108,7 @@ export class SceneComponent implements OnInit {
 
   avatarTexture$ = this.loaderService.use(
     THREE.TextureLoader,
-    "/assets/chau.jpeg"
+    "/assets/rashid.jpg"
   );
 
   moonTextures$ = forkJoin([
